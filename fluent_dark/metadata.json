@@ -3,8 +3,8 @@
     "name": "Jonas Kohl",
     "github": "jonaskohl"
   },
-  "name": "Monochrome",
+  "name": "Fluent (For dark mode)",
   "version": "1.0",
   "format": 1,
-  "ondark": false
+  "ondark": true
 }
