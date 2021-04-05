@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "Jonas Kohl",
+    "github": "jonaskohl"
+  },
+  "name": "Classic (2.0)",
+  "version": "1.0",
+  "format": 1,
+  "ondark": true
+}
