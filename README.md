@@ -10,7 +10,8 @@ The structure of `metadata.json` is as follows:
   },
   "name": "<Your icon pack name>",
   "version": "<Your icon pack version>",
-  "format": 1
+  "format": 1,
+  "ondark": <true if your icons need to be presented on a dark background, otherwise false>
 }
 ```
 
