@@ -15,4 +15,14 @@ The structure of `metadata.json` is as follows:
 }
 ```
 
-Please note that all uploaded icons will fall under the [**CC BY-NC-SA** license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Please make sure all of your files are actually valid ICO files. An easy way to
+convert from PNG to ICO is to use [ImageMagick](https://imagemagick.org) and
+use the following command:
+
+```
+magick mogrify -format ico *.png
+```
+
+---
+
+Also, please note that all uploaded icons will fall under the [**CC BY-NC-SA** license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
