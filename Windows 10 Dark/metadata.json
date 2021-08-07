@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "anonymous",
+    "github": "anonymous"
+  },
+  "name": "Windows 10 Dark",
+  "version": "1",
+  "format": 1,
+  "ondark": true
+}
