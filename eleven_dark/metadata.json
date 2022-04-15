@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "Jonas Kohl",
+    "github": "jonaskohl"
+  },
+  "name": "Eleven (For dark mode)",
+  "version": "1.0",
+  "format": 1,
+  "ondark": true
+}
