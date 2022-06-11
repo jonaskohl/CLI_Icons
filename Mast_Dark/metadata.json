@@ -1,0 +1,10 @@
+{
+    "author": {
+      "name": "Sunil Tengre",
+      "github": "suniltengre"
+    },
+    "name": "Mast (For dark mode)",
+    "version": "1.0",
+    "format": 1,
+    "ondark": true
+  }
