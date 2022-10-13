@@ -15,13 +15,17 @@ The structure of `metadata.json` is as follows:
 }
 ```
 
-Please make sure all of your files are actually valid ICO files. An easy way to
-convert from PNG to ICO is to use [ImageMagick](https://imagemagick.org) and
-use the following command:
+---
+
+> **Warning**
+
+Please make sure all of your files are actually valid ICO files. An easy way to convert from PNG to ICO is to use [ImageMagick](https://imagemagick.org) and use the following command:
 
 ```
 magick mogrify -format ico *.png
 ```
+
+To verify, please use the `Validate-Icos.ps1` script. It will point out every ico file with an invalid format.
 
 ---
 
